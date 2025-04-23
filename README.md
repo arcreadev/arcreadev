@@ -9,10 +9,10 @@
 
 🌟 **About Me**
 
-- 👨‍💻 I'm a passionate frontend developer and UI/UX designer  
-- 🔭 I’m currently working on: [Nexarce](https://www.nexarce.com/)  
-- 🌱 I’m currently learning Tailwind CSS and SCSS  
-- 📖 I’m always open to new opportunities and collaborations in frontend development and UI design  
+- 👨‍💻 I'm a passionate frontend developer and UI/UX designer
+- 🔭 I’m currently working on: [Nexarce](https://www.nexarce.com/)
+- 🌱 I’m currently learning Tailwind CSS and SCSS
+- 📖 I’m always open to new opportunities and collaborations in frontend development and UI design
 
 ---
 
@@ -37,11 +37,11 @@
 📫 **Connect with me**
 
 - 💼 [My Portfolio](https://www.nexarce.com/)
-- 📧 Email: your-email@example.com *(replace this with your email)*
+- 📧 Email: ahadurrehman.creative@gmail.com
 
 ---
 
-💻 **GitHub Stats**  
+💻 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arcreadev&show_icons=true&theme=tokyonight" alt="arcreadev stats" />
 </p>
@@ -60,6 +60,6 @@
 
 ---
 
-⚡ Fun fact:  
+⚡ Fun fact:
 I love coding and solving complex UI problems while designing clean and user-friendly interfaces!
 
